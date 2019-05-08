@@ -1,0 +1,18 @@
+{
+  "name": "helpful-aids",
+  "version": "1.0.0",
+  "main": "start.js",
+  "repository": "https://github.com/zwrg/helpful-aids",
+  "author": "Rafał Gałek <galekrafal1@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "bubblesort.js": "node start.js sorting/bubblesort.js"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.4",
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0"
+  },
+  "dependencies": {}
+}
