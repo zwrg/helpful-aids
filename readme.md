@@ -1,4 +1,4 @@
-# Collection of useful algorithms
+## Collection of useful algorithms written in JavaScript
 
 ### List of scripts:
 
