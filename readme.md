@@ -9,8 +9,9 @@ All scripts available for `yarn run` or `node` commands.
 | bubble sort    | sorting/bubblesort.js    | bubblesort.js    |
 | selection sort | sorting/selectionsort.js | selectionsort.js |
 | insertion sort | sorting/insertionsort.js | insertionsort.js |
-| cycle sort | sorting/cyclesort.js | cyclesort.js |
-| cocktail sort | sorting/cocktailsort.js | cocktailsort.js |
+| cycle sort     | sorting/cyclesort.js     | cyclesort.js     |
+| cocktail sort  | sorting/cocktailsort.js  | cocktailsort.js  |
+| comb sort      | sorting/combsort.js      | combsort.js      |
 
 ### How to use:
 ```bash
