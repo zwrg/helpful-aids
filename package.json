@@ -6,7 +6,8 @@
   "author": "Rafał Gałek <galekrafal1@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "bubblesort.js": "node start.js sorting/bubblesort.js"
+    "bubblesort.js": "node start.js sorting/bubblesort.js",
+    "selectionsort.js": "node start.js sorting/selectionsort.js"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.4",

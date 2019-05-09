@@ -4,11 +4,11 @@
 
 All scripts available for `yarn run` or `node` commands.
 
-|     name    |          path         |  yarn_script_name  |
-|:-----------:|:---------------------:|:------------------:|
-| bubble sort | sorting/bubblesort.js |    bubblesort.js   |
-|             |                       |                    |
-|             |                       |                    |
+| name           | path                     | yarn_script_name |
+|:--------------:|:------------------------:|:----------------:|
+| bubble sort    | sorting/bubblesort.js    | bubblesort.js    |
+| selection sort | sorting/selectionsort.js | selectionsort.js |
+|                |                          |                  |
 
 ### How to use:
 ```bash
