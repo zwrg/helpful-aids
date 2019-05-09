@@ -9,7 +9,8 @@
     "bubblesort.js": "node start.js sorting/bubblesort.js",
     "selectionsort.js": "node start.js sorting/selectionsort.js",
     "insertionsort.js": "node start.js sorting/insertionsort.js",
-    "cyclesort.js": "node start.js sorting/cyclesort.js"
+    "cyclesort.js": "node start.js sorting/cyclesort.js",
+    "cocktailsort.js": "node start.js sorting/cocktailsort.js"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.4",
