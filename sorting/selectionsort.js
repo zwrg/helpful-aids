@@ -1,4 +1,4 @@
-import {generateArray} from "../imports/arrayHelper";
+import {mySort} from "../imports/arrayHelper";
 
 const selectionsort = (array) => {
     const size = array.length;
@@ -16,7 +16,4 @@ const selectionsort = (array) => {
     return array;
 };
 
-
-let array = generateArray(25);
-console.log(`before: ${array}`);
-console.log(`after: ${selectionsort(array)}`);
+mySort(selectionsort);

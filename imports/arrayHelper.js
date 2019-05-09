@@ -1,3 +1,9 @@
-export function generateArray(size) {
+function generateArray(size) {
     return Array.from(Array(size), () => Math.floor(Math.random() * (size - 1)) + 1)
+}
+
+export function mySort(callback) {
+    let array = generateArray(25);
+    console.log(`before: ${array}`);
+    console.log(`after: ${callback(array)}`);
 }
