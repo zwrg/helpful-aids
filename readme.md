@@ -12,6 +12,7 @@ All scripts available for `yarn run` or `node` commands.
 | cycle sort     | sorting/cyclesort.js     | cyclesort.js     |
 | cocktail sort  | sorting/cocktailsort.js  | cocktailsort.js  |
 | comb sort      | sorting/combsort.js      | combsort.js      |
+| gnome sort     | sorting/gnomesort.js     | gnomesort.js     |
 
 ### How to use:
 ```bash
