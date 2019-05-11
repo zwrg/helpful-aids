@@ -13,6 +13,7 @@ All scripts available for `yarn run` or `node` commands.
 | cocktail sort  | sorting/cocktailsort.js  | cocktailsort.js  |
 | comb sort      | sorting/combsort.js      | combsort.js      |
 | gnome sort     | sorting/gnomesort.js     | gnomesort.js     |
+| oddeven sort   | sorting/oddevensort.js   | oddevensort.js   |
 
 ### How to use:
 ```bash

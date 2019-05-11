@@ -12,7 +12,8 @@
     "cyclesort.js": "node start.js sorting/cyclesort.js",
     "cocktailsort.js": "node start.js sorting/cocktailsort.js",
     "combsort.js": "node start.js sorting/combsort.js.js",
-    "gnomesort.js": "node start.js sorting/gnomesort.js"
+    "gnomesort.js": "node start.js sorting/gnomesort.js",
+    "oddevensort.js": "node start.js sorting/oddevensort.js"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.4",
