@@ -16,6 +16,7 @@ All scripts available for `yarn run` or `node` commands.
 | oddeven sort   | sorting/oddevensort.js   | oddevensort.js   |
 | shellsort      | sorting/shellsort.js     | shellsort.js     |
 | merge sort     | sorting/mergesort.js     | mergesort.js     |
+| quick sort     | sorting/quicksort.js     | quicksort.js     |
 
 ### How to use:
 ```bash

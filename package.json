@@ -15,7 +15,8 @@
     "gnomesort.js": "node start.js sorting/gnomesort.js",
     "oddevensort.js": "node start.js sorting/oddevensort.js",
     "shellsort.js": "node start.js sorting/shellsort.js",
-    "mergesort.js.js": "node start.js sorting/mergesort.js.js"
+    "mergesort.js": "node start.js sorting/mergesort.js",
+    "quicksort.js": "node start.js sorting/quicksort.js"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.4",
