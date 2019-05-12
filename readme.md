@@ -14,7 +14,8 @@ All scripts available for `yarn run` or `node` commands.
 | comb sort      | sorting/combsort.js      | combsort.js      |
 | gnome sort     | sorting/gnomesort.js     | gnomesort.js     |
 | oddeven sort   | sorting/oddevensort.js   | oddevensort.js   |
-| shellsort sort | sorting/shellsortsort.js | shellsortsort.js |
+| shellsort      | sorting/shellsort.js     | shellsort.js     |
+| merge sort     | sorting/mergesort.js     | mergesort.js     |
 
 ### How to use:
 ```bash
