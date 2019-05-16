@@ -22,7 +22,9 @@
     "binarysearch.js": "node start.js search/binarysearch.js",
     "interpolationsearch.js": "node start.js search/interpolationsearch.js",
     "jumpsearch.js": "node start.js search/jumpsearch.js",
-    "linearsearch.js": "node start.js search/linearsearch.js"
+    "linearsearch.js": "node start.js search/linearsearch.js",
+    "stack.js": "node start.js \"data structures/stack.js\"",
+    "heap.js": "node start.js \"data structures/heap.js\""
   },
   "devDependencies": {
     "@babel/cli": "^7.4.4",
