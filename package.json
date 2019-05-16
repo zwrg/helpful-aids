@@ -17,7 +17,8 @@
     "shellsort.js": "node start.js sorting/shellsort.js",
     "mergesort.js": "node start.js sorting/mergesort.js",
     "quicksort.js": "node start.js sorting/quicksort.js",
-    "heapsort.js": "node start.js sorting/heapsort.js"
+    "heapsort.js": "node start.js sorting/heapsort.js",
+    "radixsort.js": "node start.js sorting/radixsort.js"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.4",

@@ -18,6 +18,7 @@ All scripts available for `yarn run` or `node` commands.
 | merge sort     | sorting/mergesort.js     | mergesort.js     |
 | quick sort     | sorting/quicksort.js     | quicksort.js     |
 | heap sort      | sorting/heapsort.js      | heapsort.js      |
+| radix sort     | sorting/radixsort.js     | radixsort.js     |
 
 ### How to use:
 ```bash
