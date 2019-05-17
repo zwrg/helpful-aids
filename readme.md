@@ -29,6 +29,9 @@ All scripts available for `yarn run` or `node` commands.
 | stack                | data structures/stack.js      | stack.js               |
 | heap                 | data structures/heap.js       | heap.js                |
 | queue                | data structures/queue.js      | queue.js               |
+| **algorithms**                                                                |
+| euclid gcd iter/rec  | algorithms/gcd_euclid.js      | gcd_euclid.js          |
+| euclid gcd extended  | algorithms/gcd_extended.js    | gcd_extended.js        |
 
 ### How to use:
 ```bash

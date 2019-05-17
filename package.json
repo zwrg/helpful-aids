@@ -25,7 +25,9 @@
     "linearsearch.js": "node start.js search/linearsearch.js",
     "stack.js": "node start.js \"data structures/stack.js\"",
     "heap.js": "node start.js \"data structures/heap.js\"",
-    "queue.js": "node start.js \"data structures/queue.js\""
+    "queue.js": "node start.js \"data structures/queue.js\"",
+    "gcd_euclid.js": "node start.js algorithms/gcd_euclid.js",
+    "gcd_extended.js": "node start.js algorithms/gcd_extended.js"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.4",
