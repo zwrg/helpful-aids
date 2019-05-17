@@ -24,7 +24,8 @@
     "jumpsearch.js": "node start.js search/jumpsearch.js",
     "linearsearch.js": "node start.js search/linearsearch.js",
     "stack.js": "node start.js \"data structures/stack.js\"",
-    "heap.js": "node start.js \"data structures/heap.js\""
+    "heap.js": "node start.js \"data structures/heap.js\"",
+    "queue.js": "node start.js \"data structures/queue.js\""
   },
   "devDependencies": {
     "@babel/cli": "^7.4.4",

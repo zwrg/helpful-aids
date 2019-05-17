@@ -28,6 +28,7 @@ All scripts available for `yarn run` or `node` commands.
 | **data structures**                                                           |
 | stack                | data structures/stack.js      | stack.js               |
 | heap                 | data structures/heap.js       | heap.js                |
+| queue                | data structures/queue.js      | queue.js               |
 
 ### How to use:
 ```bash
