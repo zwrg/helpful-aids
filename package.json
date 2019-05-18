@@ -27,7 +27,10 @@
     "heap.js": "node start.js \"data structures/heap.js\"",
     "queue.js": "node start.js \"data structures/queue.js\"",
     "gcd_euclid.js": "node start.js algorithms/gcd_euclid.js",
-    "gcd_extended.js": "node start.js algorithms/gcd_extended.js"
+    "gcd_extended.js": "node start.js algorithms/gcd_extended.js",
+    "eratosthenes_sieve.js": "node start.js algorithms/eratosthenes_sieve.js",
+    "atkin_sieve.js": "node start.js algorithms/atkin_sieve.js",
+    "sundaram_sieve.js": "node start.js algorithms/sundaram_sieve.js"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.4",
