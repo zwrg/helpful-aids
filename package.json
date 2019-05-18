@@ -30,7 +30,13 @@
     "gcd_extended.js": "node start.js algorithms/gcd_extended.js",
     "eratosthenes_sieve.js": "node start.js algorithms/eratosthenes_sieve.js",
     "atkin_sieve.js": "node start.js algorithms/atkin_sieve.js",
-    "sundaram_sieve.js": "node start.js algorithms/sundaram_sieve.js"
+    "sundaram_sieve.js": "node start.js algorithms/sundaram_sieve.js",
+    "isPrime.js": "node start.js algorithms/isPrime.js",
+    "isOdd.js": "node start.js algorithms/isOdd.js",
+    "isEven.js": "node start.js algorithms/isEven.js",
+    "isPrime_optimized.js": "node start.js algorithms/isPrime_optimized.js",
+    "euler_totient.js": "node start.js algorithms/euler_totient.js",
+    "power.js": "node start.js algorithms/power.js"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.4",

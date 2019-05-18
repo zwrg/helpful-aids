@@ -1,4 +1,4 @@
-const gcdeuclid_extended = (a, b) => {
+export const gcdeuclid_extended = (a, b) => {
     let iterations = 0;
     /*quotients definition*/
     let s = 0, old_s = 1;
