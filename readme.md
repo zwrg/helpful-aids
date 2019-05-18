@@ -42,6 +42,8 @@ All scripts available for `yarn run` or `node` commands.
 | euler totient             | algorithms/euler_totient.js      | euler_totient.js       |
 | power function            | algorithms/power.js              | power.js               |
 | fibonaci function         | algorithms/fibonacci.js          | fibonacci.js           |
+| **ciphers**               |                                  |                        |
+| caesar                    | ciphers/caesar.js                | caesar.js              |
 
 ### How to use:
 ```bash

@@ -37,7 +37,8 @@
     "isPrime_optimized.js": "node start.js algorithms/isPrime_optimized.js",
     "euler_totient.js": "node start.js algorithms/euler_totient.js",
     "power.js": "node start.js algorithms/power.js",
-    "fibonacci.js": "node start.js algorithms/fibonacci.js"
+    "fibonacci.js": "node start.js algorithms/fibonacci.js",
+    "caesar.js": "node start.js ciphers/caesar.js"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.4",
