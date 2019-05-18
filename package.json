@@ -36,7 +36,8 @@
     "isEven.js": "node start.js algorithms/isEven.js",
     "isPrime_optimized.js": "node start.js algorithms/isPrime_optimized.js",
     "euler_totient.js": "node start.js algorithms/euler_totient.js",
-    "power.js": "node start.js algorithms/power.js"
+    "power.js": "node start.js algorithms/power.js",
+    "fibonacci.js": "node start.js algorithms/fibonacci.js"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.4",

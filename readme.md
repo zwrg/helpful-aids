@@ -41,6 +41,7 @@ All scripts available for `yarn run` or `node` commands.
 | is prime number optimized | algorithms/isPrime_optimized.js  | isPrime_optimized.js   |
 | euler totient             | algorithms/euler_totient.js      | euler_totient.js       |
 | power function            | algorithms/power.js              | power.js               |
+| fibonaci function         | algorithms/fibonacci.js          | fibonacci.js           |
 
 ### How to use:
 ```bash
