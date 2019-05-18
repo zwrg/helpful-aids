@@ -49,5 +49,3 @@ yarn run [yarn_script_name]
 # or
 node start.js [path]
 ```
-
-Do NOT use `./` for example: `node start.js ./[...]` it won't work.
