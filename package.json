@@ -38,7 +38,8 @@
     "euler_totient.js": "node start.js algorithms/euler_totient.js",
     "power.js": "node start.js algorithms/power.js",
     "fibonacci.js": "node start.js algorithms/fibonacci.js",
-    "caesar.js": "node start.js ciphers/caesar.js"
+    "caesar.js": "node start.js ciphers/caesar.js",
+    "partition_function.js": "node start.js algorithms/partition_function.js"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.4",
